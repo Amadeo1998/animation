@@ -17,5 +17,4 @@ Animation Component            |  _app.tsx
 
 
 
-https://user-images.githubusercontent.com/126564345/233617644-541d41a9-c190-4240-a649-3de41c72932a.mov
-
+https://user-images.githubusercontent.com/126564345/233356192-b4ed2d7e-bd07-49c1-a689-813117ee6471.mov
