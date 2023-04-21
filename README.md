@@ -15,3 +15,7 @@ Animation Component            |  _app.tsx
 #### animation example
 
 
+
+https://user-images.githubusercontent.com/126564345/233593750-4a0c0bb6-1399-48b0-965a-83802a21ffce.mov
+
+
