@@ -57,3 +57,25 @@ Animation Component            |  _app.tsx              | global.css
 #### animation example
 
 https://user-images.githubusercontent.com/126564345/233966531-f5a366f9-1c5f-4be2-a2f5-4a37b8287fb0.mov
+
+# Animate.css
+
+#### General Information 
++ last updaded: 29/6/2022
++ github repo: https://github.com/animate-css/animate.css
+
+#### Bundle Size 
+<img src= "./BundleSizeAnimateCss.png" width="400"/>
+
+#### Code implementation
+
+<img src= "./PageComponentAnimateC.png" width="400"/>
+
+#### animation example
+
+
+
+
+https://user-images.githubusercontent.com/126564345/233620402-0048b4d5-2ffa-4da6-a4c8-5a72c6e1b671.mov
+
+
