@@ -39,3 +39,21 @@ https://user-images.githubusercontent.com/126564345/233594411-d5b22575-1448-455f
 #### animation example
 
 https://user-images.githubusercontent.com/126564345/233356192-b4ed2d7e-bd07-49c1-a689-813117ee6471.mov
+
+# Swup.js
+#### General Information 
++ last updaded: 5 days ago
++ github repo: https://github.com/swup/swup
+
+#### Bundle Size 
+<img src= "./bundleSizeSwup.png" width="400"/>
+
+#### Code implementation
+
+Animation Component            |  _app.tsx              | global.css
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src= "./componentSwup.png" width="400"/>  |  <img src= "./appJsSwup.png" width="400"/> | <img src= "./globalCssSwup.png" width="400"/>
+
+#### animation example
+
+https://user-images.githubusercontent.com/126564345/233966531-f5a366f9-1c5f-4be2-a2f5-4a37b8287fb0.mov
