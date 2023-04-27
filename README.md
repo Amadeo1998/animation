@@ -86,17 +86,23 @@ https://user-images.githubusercontent.com/126564345/233620402-0048b4d5-2ffa-4da6
 + github repo: https://github.com/mui/material-ui
 
 #### Bundle Size 
-<img src= "./BundleSizeAnimateCss.png" width="400"/>
+<img src= "./muiBundleSize.png" width="400"/>
 
 #### Code implementation
 
-<img src= "./PageComponentAnimateC.png" width="400"/>
+Created Hook            |  _app.tsx              
+:-------------------------:|:-------------------------:|
+<img src= "./muiHook.png" width="400"/>  |  <img src= "./muiRoot.png" width="400"/> | 
 
 #### animation example
 
 
 
 
-https://user-images.githubusercontent.com/126564345/233620402-0048b4d5-2ffa-4da6-a4c8-5a72c6e1b671.mov
+
+https://user-images.githubusercontent.com/126564345/234823298-658b68ef-e064-4a01-b935-3a5eaec85788.mov
+
+
+
 
 
