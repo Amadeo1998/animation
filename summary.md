@@ -1,24 +1,24 @@
 # Bundle Size
 
-| Framer Motion     | Animate.css | React-Spring | Swup.js
-| :----------------: | :------:     | :------: |:------: 
-|  biggest       |   big   | small | smallest |
+| Mui |Framer Motion     | Animate.css | React-Spring | Swup.js | 
+| :----------------: | :------:     | :------: |:------: |:------: 
+|  biggest       |   big   | small | smaller | smallest
 
 # Implementation
 
-| Framer Motion     | React-Spring | Swup.js | Animate.css |
-| :----------------: | :------:     | :------: |:------: 
-|  easiest       |   easy   | difficult | hard |
+| Framer Motion     | Mui | React-Spring | Swup.js | Animate.css | 
+| :----------------: | :------:     | :------: |:------: |:------: 
+|  easiest       |   easy   | difficult | more difficult | most difficult
 
 # Maintainance
 
-| Framer Motion     | React-Spring | Swup.js | Animate.css |
-| :----------------: | :------:     | :------: |:------: 
-|  recently       |   recently   | recently | last year |
+| Framer Motion     | React-Spring | Swup.js | Animate.css | Mui 
+| :----------------: | :------:     | :------: |:------: |:------: 
+|  recently       |   recently   | recently | last year | recently
 
 # Open-Source
 
-| Framer Motion     | React-Spring | Swup.js | Animate.css |
-| :----------------: | :------:     | :------: |:------: 
-|  yes       |   yes   | yes | yes |
+| Framer Motion     | React-Spring | Swup.js | Animate.css | Mui
+| :----------------: | :------:     | :------: |:------: |:------: 
+|  yes       |   yes   | yes | yes | yes
 
