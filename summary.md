@@ -10,7 +10,7 @@
 | :----------------: | :------:     | :------: |:------: |:------: 
 |  easiest       |   easy   | difficult | more difficult | most difficult
 
-# Maintainance
+# Maintenance
 
 | Framer Motion     | React-Spring | Swup.js | Animate.css | Mui 
 | :----------------: | :------:     | :------: |:------: |:------: 
