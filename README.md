@@ -7,13 +7,13 @@
 
 #### Bundle Size
 
-<img src= "./BundleSizeFramerMotion.png" width="400"/>
+<img src= "./images/BundleSizeFramerMotion.png" width="400"/>
 
 #### Code implementation
 
 |                      Animation Component                       |                         \_app.tsx                         |
 | :------------------------------------------------------------: | :-------------------------------------------------------: |
-| <img src= "./AnimationComponentFramerMotion.png" width="400"/> | <img src= "./RootComponentFramerMotion.png" width="400"/> |
+| <img src= "./images/AnimationComponentFramerMotion.png" width="400"/> | <img src= "./images/RootComponentFramerMotion.png" width="400"/> |
 
 #### animation example
 
@@ -28,13 +28,13 @@ https://user-images.githubusercontent.com/126564345/233594411-d5b22575-1448-455f
 
 #### Bundle Size
 
-<img src= "Screenshot 2023-04-20 at 13.08.02.png" width="400"/>
+<img src= "./images/Screenshot 2023-04-20 at 13.08.02.png" width="400"/>
 
 #### Code implementation
 
 |                       Animation Component                       |                            \_app.tsx                            |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src= "Screenshot 2023-04-20 at 13.26.07.png" width="400"/> | <img src= "Screenshot 2023-04-20 at 13.26.29.png" width="400"/> |
+| <img src= "./images/Screenshot 2023-04-20 at 13.26.07.png" width="400"/> | <img src= "./images/Screenshot 2023-04-20 at 13.26.29.png" width="400"/> |
 
 #### animation example
 
@@ -46,13 +46,13 @@ https://user-images.githubusercontent.com/126564345/233356192-b4ed2d7e-bd07-49c1
 + github repo: https://github.com/swup/swup
 
 #### Bundle Size 
-<img src= "./bundleSizeSwup.png" width="400"/>
+<img src= "./images/bundleSizeSwup.png" width="400"/>
 
 #### Code implementation
 
 Animation Component            |  _app.tsx              | global.css
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src= "./componentSwup.png" width="400"/>  |  <img src= "./appJsSwup.png" width="400"/> | <img src= "./globalCssSwup.png" width="400"/>
+<img src= "./images/componentSwup.png" width="400"/>  |  <img src= "./images/appJsSwup.png" width="400"/> | <img src= "./images/globalCssSwup.png" width="400"/>
 
 #### animation example
 
@@ -65,11 +65,11 @@ https://user-images.githubusercontent.com/126564345/233966531-f5a366f9-1c5f-4be2
 + github repo: https://github.com/animate-css/animate.css
 
 #### Bundle Size 
-<img src= "./BundleSizeAnimateCss.png" width="400"/>
+<img src= "./images/BundleSizeAnimateCss.png" width="400"/>
 
 #### Code implementation
 
-<img src= "./PageComponentAnimateC.png" width="400"/>
+<img src= "./images/PageComponentAnimateC.png" width="400"/>
 
 #### animation example
 
@@ -86,13 +86,13 @@ https://user-images.githubusercontent.com/126564345/233620402-0048b4d5-2ffa-4da6
 + github repo: https://github.com/mui/material-ui
 
 #### Bundle Size 
-<img src= "./muiBundleSize.png" width="400"/>
+<img src= "./images/muiBundleSize.png" width="400"/>
 
 #### Code implementation
 
 Created Hook            |  _app.tsx              
 :-------------------------:|:-------------------------:|
-<img src= "./muiHook.png" width="400"/>  |  <img src= "./muiRoot.png" width="400"/> | 
+<img src= "./images/muiHook.png" width="400"/>  |  <img src= "./images/muiRoot.png" width="400"/> | 
 
 #### animation example
 
