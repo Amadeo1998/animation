@@ -79,3 +79,24 @@ https://user-images.githubusercontent.com/126564345/233966531-f5a366f9-1c5f-4be2
 https://user-images.githubusercontent.com/126564345/233620402-0048b4d5-2ffa-4da6-a4c8-5a72c6e1b671.mov
 
 
+# Mui
+
+#### General Information 
++ last updaded: one day ago
++ github repo: https://github.com/mui/material-ui
+
+#### Bundle Size 
+<img src= "./BundleSizeAnimateCss.png" width="400"/>
+
+#### Code implementation
+
+<img src= "./PageComponentAnimateC.png" width="400"/>
+
+#### animation example
+
+
+
+
+https://user-images.githubusercontent.com/126564345/233620402-0048b4d5-2ffa-4da6-a4c8-5a72c6e1b671.mov
+
+
